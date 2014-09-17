@@ -1,0 +1,811 @@
+#Banderas. Los rasgos son 10, Se tiene en cuenta solamente los colores dentro de la bandera que no estan en los escudos ni estrellas.
+#El escudo y estrellas son dos rasgos diferentes
+#Descripcion de Rasgos
+10
+Numero de Colores
+¿Es * el numero de colores?
+3
+1
+2
+3
+
+Color Rojo
+¿Tiene color rojo?
+2
+Si
+No
+
+Color Azul
+¿Tiene color azul?
+2
+Si
+No
+
+Color Verde
+¿Tiene color verde?
+2
+Si
+No
+
+Color Amarillo
+¿Tiene color amarillo?
+2
+Si
+No
+
+Color Negro
+¿Tiene color negro?
+2
+Si
+No
+
+Color Blanco
+¿Tiene color blanco?
+2
+Si
+No
+
+Escudo
+¿Tiene escudo?
+2
+Si
+No
+
+Estrellas
+¿Tiene estrellas?
+2
+Si
+No
+
+Sentido de las Bandas
+¿Es * el sentido de las bandas?
+3
+Ninguno
+Horizontal
+Vertical
+
+##############0##########################
+#Banderas
+16
+Alemania
+data/banderas/alemania.bmp
+10
+
+Numero de Colores
+3
+
+Color Rojo
+Si
+
+Color Azul
+No
+
+Color Verde
+No
+
+Color Amarillo
+Si
+
+Color Negro
+Si
+
+
+Color Blanco
+No
+
+Escudo
+No
+
+Estrellas
+No
+
+Sentido de las Bandas
+Horizontal
+
+
+###########1#############################
+Argentina
+data/banderas/argentina.bmp
+10
+
+Numero de Colores
+2
+
+Color Rojo
+No
+
+Color Azul
+Si
+
+Color Verde
+No
+
+Color Amarillo
+No
+
+Color Negro
+No
+
+Color Blanco
+Si
+
+Escudo
+Si
+
+Estrellas
+Si
+
+Sentido de las Bandas
+Horizontal
+
+
+################2########################
+Austria
+data/banderas/austria.bmp
+10
+
+Numero de Colores
+2
+
+Color Rojo
+Si
+
+Color Azul
+No
+
+Color Verde
+No
+
+Color Amarillo
+No
+
+Color Negro
+No
+
+Color Blanco
+Si
+
+Escudo
+Si
+
+Estrellas
+No
+
+Sentido de las Bandas
+Horizontal
+
+#########################################
+Bolivia
+data/banderas/bolivia.bmp
+10
+
+Numero de Colores
+3
+
+Color Rojo
+Si
+
+Color Azul
+No
+
+Color Verde
+Si
+
+Color Amarillo
+Si
+
+Color Negro
+No
+
+Color Blanco
+No
+
+Escudo
+Si
+
+Estrellas
+No
+
+Sentido de las Bandas
+Horizontal
+
+
+############4############################
+Brasil
+data/banderas/brasil.bmp
+10
+
+Numero de Colores
+1
+
+Color Rojo
+No
+
+Color Azul
+No
+
+Color Verde
+Si
+
+Color Amarillo
+No
+
+Color Negro
+No
+
+Color Blanco
+No
+
+Escudo
+Si
+
+Estrellas
+No
+
+Sentido de las Bandas
+Ninguno
+
+############5############################
+Canada
+data/banderas/canada.bmp
+10
+
+Numero de Colores
+2
+
+Color Rojo
+Si
+
+Color Azul
+No
+
+Color Verde
+No
+
+Color Amarillo
+No
+
+Color Negro
+No
+
+Color Blanco
+Si
+
+Escudo
+Si
+
+Estrellas
+No
+
+Sentido de las Bandas
+Vertical
+
+############6############################
+Chipre
+data/banderas/chipre.bmp
+10
+
+Numero de Colores
+1
+
+Color Rojo
+No
+
+Color Azul
+No
+
+Color Verde
+No
+
+Color Amarillo
+No
+
+Color Negro
+No
+
+Color Blanco
+Si
+
+Escudo
+Si
+
+Estrellas
+Si
+
+Sentido de las Bandas
+Ninguno
+
+############7############################
+China
+data/banderas/china.bmp
+10
+
+Numero de Colores
+1
+
+Color Rojo
+Si
+
+Color Azul
+No
+
+Color Verde
+No
+
+Color Amarillo
+No
+
+Color Negro
+No
+
+Color Blanco
+No
+
+Escudo
+No
+
+Estrellas
+Si
+
+Sentido de las Bandas
+Ninguno
+
+############8############################
+Ecuador
+data/banderas/ecuador.bmp
+10
+
+Numero de Colores
+3
+
+Color Rojo
+Si
+
+Color Azul
+Si
+
+Color Verde
+No
+
+Color Amarillo
+Si
+
+Color Negro
+No
+
+Color Blanco
+No
+
+Escudo
+Si
+
+Estrellas
+No
+
+Sentido de las Bandas
+Horizontal
+
+############9############################
+EEUU
+data/banderas/eeuu.bmp
+10
+
+Numero de Colores
+3
+
+Color Rojo
+Si
+
+Color Azul
+Si
+
+Color Verde
+No
+
+Color Amarillo
+No
+
+Color Negro
+No
+
+Color Blanco
+Si
+
+Escudo
+No
+
+Estrellas
+Si
+
+Sentido de las Bandas
+Vertical
+
+############10############################
+España
+data/banderas/espanha.bmp
+10
+
+Numero de Colores
+2
+
+Color Rojo
+Si
+
+Color Azul
+No
+
+Color Verde
+No
+
+Color Amarillo
+Si
+
+Color Negro
+No
+
+Color Blanco
+No
+
+Escudo
+Si
+
+Estrellas
+No
+
+Sentido de las Bandas
+Horizontal
+
+#############11###########################
+Francia
+data/banderas/francia.bmp
+10
+
+Numero de Colores
+3
+
+Color Rojo
+Si
+
+Color Azul
+Si
+
+Color Verde
+No
+
+Color Amarillo
+No
+
+Color Negro
+No
+
+Color Blanco
+Si
+
+Escudo
+No
+
+Estrellas
+No
+
+Sentido de las Bandas
+Vertical
+
+############12############################
+Italia
+data/banderas/italia.bmp
+10
+
+Numero de Colores
+3
+
+Color Rojo
+Si
+
+Color Azul
+No
+
+Color Verde
+Si
+
+Color Amarillo
+No
+
+Color Negro
+No
+
+Color Blanco
+Si
+
+Escudo
+No
+
+Estrellas
+No
+
+Sentido de las Bandas
+Vertical
+
+############13############################
+Jamaica
+data/banderas/jamaica.bmp
+10
+
+Numero de Colores
+3
+
+Color Rojo
+No
+
+Color Azul
+No
+
+Color Verde
+Si
+
+Color Amarillo
+Si
+
+Color Negro
+Si
+
+Color Blanco
+No
+
+Escudo
+No
+
+Estrellas
+No
+
+Sentido de las Bandas
+Ninguno
+
+############14############################
+Portugal
+data/banderas/portugal.bmp
+10
+
+Numero de Colores
+2
+
+Color Rojo
+Si
+
+Color Azul
+No
+
+Color Verde
+Si
+
+Color Amarillo
+No
+
+Color Negro
+No
+
+Color Blanco
+No
+
+Escudo
+Si
+
+Estrellas
+No
+
+Sentido de las Bandas
+Vertical
+
+############15############################
+Suecia
+data/banderas/suecia.bmp
+10
+
+Numero de Colores
+2
+
+Color Rojo
+No
+
+Color Azul
+Si
+
+Color Verde
+No
+
+Color Amarillo
+Si
+
+Color Negro
+No
+
+Color Blanco
+No
+
+Escudo
+No
+
+Estrellas
+No
+
+Sentido de las Bandas
+Ninguno
+
+####################################################################
+##Informacion de la ventana
+#ancho y alto 
+912 606
+###########################################
+#Tablero 1 y tablero2
+#Numero de imagenes por fila y columna del tablero
+4 4
+#separacion entre cada imagen ancho y alto
+4 4
+
+#####################################################################
+##Informacion del tablero 1
+#posicion x e y de inicio 
+0 0
+#ancho y alto
+336 296
+#color de fondo
+0 0 255
+#ancho y alto del marco
+4 4
+#color del marco
+0 255 0
+
+#color para tachar un personaje
+0 150 255
+################################
+#Informacion de las preguntas
+#posicion x e y de inicio 
+336 0
+#ancho y alto
+240 460
+#color de fondo
+0 255 255
+#ancho y alto del marco
+4 4
+#color del marco
+0 255 0
+#Fuente para escribir las preguntas
+data/fuentes/DejaVuSans.ttf
+#Tamaño de la fuente
+9
+#color de la fuente
+255 0 0
+################################
+##Informacion del tablero 2
+#posicion x e y de inicio 
+576 0
+#ancho y alto
+376 296
+#color de fondo
+0 0 255
+#ancho y alto del marco
+4 4
+#color del marco
+0 255 0
+#color para tachar un personaje
+0 150 255
+################################
+#personaje oculto del jugador 1 (humano por defecto)
+#posicion x e y de inicio 
+129 296
+#ancho y alto
+87 77
+#color de fondo
+0 0 255
+#ancho y alto del marco
+4 4
+#color del marco
+0 255 0
+################################
+#personaje oculto del jugador 2 (máquina por defecto)
+#posicion x e y de inicio 
+705  296
+#ancho y alto
+87 77
+#color de fondo
+0 0 255
+#ancho y alto del marco
+4 4
+#color del marco
+0 255 0
+################################
+#informacion del recuadro de los botones
+#posicion x e y de inicio 
+216 296
+#ancho y alto
+489 104
+#color de fondo
+128 128 255
+#ancho y alto del marco
+4 4
+#color del marco
+150 255 0
+
+#cuadro del tiempo acumulado
+#posicion x e y de inicio 
+220 300
+#ancho y alto
+150 50
+#color de fondo
+0 255 255
+#ancho y alto del marco
+4 4
+#color del marco
+255 255 140
+
+#cuadro del boton stop
+#posicion x e y de inicio 
+551 300
+#ancho y alto
+150 50
+#color de fondo
+0 255 255
+#ancho y alto del marco
+4 4
+#color del marco
+255 255 0
+
+#cuadro del cronometro
+#posicion x e y de inicio 
+410 356
+#ancho y alto
+150 40
+#color de fondo
+0 255 255
+#ancho y alto del marco
+4 4
+#color del marco
+255 255 0
+#cuadro del boton restaurar
+#posicion x e y de inicio 
+220 350
+#ancho y alto
+150 50
+#color de fondo
+0 255 255
+#ancho y alto del marco
+4 4
+#color del marco
+255 255 0
+#color de tiempo transcurrido
+255 0 0
+#Fuente para escribir en los botones
+data/fuentes/DejaVuSans.ttf
+#Tamaño de la fuente
+14
+#Color de la fuente
+0 0 0
+################################
+#informacion del recuadro del terminal
+#posicion x e y de inicio 
+0 400 
+#ancho y alto
+912 206
+#color de fondo
+255 255 255
+#ancho y alto del marco
+4 4
+#color del marco
+0 255 0
+#Fuente para escribir 
+data/fuentes/DejaVuSans.ttf
+#Tamaño de la fuente
+14
+#color de la fuente
+255 0 0
+#Numero de lineas que se visualizan en el terminal
+8
+##########################################
+#imagen para ocultar las cartas del oponente
+data/banderas/desconocido.bmp
+
+##########################################
+#tiempo de espera para tachar los personajes
+8000
+
+
+    

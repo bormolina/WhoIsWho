@@ -1,0 +1,758 @@
+
+9 
+Sexo
+¿Es *?
+2 
+Mujer
+Hombre
+
+Color de Pelo
+¿Tiene el pelo *?
+5
+Negro
+Rubio
+Blanco
+Pelirrojo
+Marron
+
+Tamaño de Pelo
+¿Es * su pelo?
+2
+Largo
+Corto
+
+Color de Ojos
+¿Es * su color de ojos?
+2
+Claro
+Oscuro
+
+Calvo
+¿Es calvo?
+2
+Si
+No
+
+Color de Piel
+¿Tiene la piel *?
+2
+Clara
+Oscura
+
+Barba
+¿Tiene barba?
+2
+Si
+No
+
+Bigote
+¿Tiene bigote?
+2
+Si
+No
+
+Gafas
+¿Tiene gafas?
+2
+Si
+No
+
+
+
+16 
+
+Alejandro 
+data/caras1/alejandro.bmp 
+9 
+
+Sexo
+Hombre
+
+Color de Pelo
+Negro
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Oscuro
+
+Calvo
+No
+
+Color de Piel
+Oscura
+
+Barba
+No
+
+Bigote
+No
+
+Gafas
+No
+
+
+Alfonso
+data/caras1/alfonso.bmp
+9
+
+Sexo
+Hombre
+
+Color de Pelo
+Negro
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Claro
+
+Calvo
+No 
+
+Color de Piel
+Clara
+
+Barba
+Si
+
+Bigote
+Si
+
+Gafas
+No
+
+
+Antonio
+data/caras1/antonio.bmp
+9
+
+Sexo
+Hombre
+
+Color de Pelo
+Negro
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Oscuro
+
+Calvo
+No 
+
+Color de Piel
+Oscura
+
+Barba
+Si
+
+Bigote
+Si
+
+Gafas
+No
+
+
+Cristina
+data/caras1/cristina.bmp
+9
+
+Sexo
+Mujer
+
+Color de Pelo
+Negro
+
+Tamaño de Pelo
+Largo
+
+Color de Ojos
+Claro
+
+Calvo
+No 
+
+Color de Piel
+Clara
+
+Barba
+No
+
+Bigote
+No
+
+Gafas
+No
+
+
+Gabriela
+data/caras1/gabriela.bmp
+9
+
+Sexo
+Mujer
+
+Color de Pelo
+Blanco
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Claro
+
+Calvo
+No 
+
+Color de Piel
+Clara
+
+Barba
+No
+
+Bigote
+No
+
+Gafas
+No
+
+
+Ivan
+data/caras1/ivan.bmp
+9
+
+Sexo
+Hombre
+
+Color de Pelo
+Rubio
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Claro
+
+Calvo
+No 
+
+Color de Piel
+Clara
+
+Barba
+No
+
+Bigote
+Si
+
+Gafas
+No
+
+
+
+Javier
+data/caras1/javier.bmp
+9
+
+Sexo
+Hombre
+
+Color de Pelo
+Negro
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Oscuro
+
+Calvo
+No 
+
+Color de Piel
+Oscura
+
+Barba
+No
+
+Bigote
+Si
+
+Gafas
+No
+
+
+Juan
+data/caras1/juan.bmp
+9
+
+Sexo
+Hombre
+
+Color de Pelo
+Negro
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Oscuro
+
+Calvo
+Si
+ 
+Color de Piel
+Oscura
+
+Barba
+No
+
+Bigote
+Si
+
+Gafas
+No
+
+
+Laura
+data/caras1/laura.bmp
+9
+
+Sexo
+Mujer
+
+Color de Pelo
+Rubio
+
+Tamaño de Pelo
+Largo
+
+Color de Ojos
+Claro
+
+Calvo
+No 
+
+Color de Piel
+Clara
+
+Barba
+No
+
+Bigote
+No
+
+Gafas
+No
+
+
+Luis
+data/caras1/luis.bmp
+9
+
+Sexo
+Hombre
+
+Color de Pelo
+Pelirrojo
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Claro
+
+Calvo
+Si
+ 
+Color de Piel
+Clara
+
+Barba
+Si
+
+Bigote
+No
+
+Gafas
+No
+
+
+Marco
+data/caras1/marco.bmp
+9
+
+Sexo
+Hombre
+
+Color de Pelo
+Blanco
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Claro
+
+Calvo
+Si
+
+Color de Piel
+Clara
+
+Barba
+No
+
+Bigote
+No
+
+Gafas
+No
+
+
+Maria
+data/caras1/maria.bmp
+9
+
+Sexo
+Mujer
+
+Color de Pelo
+Pelirrojo
+
+Tamaño de Pelo
+Largo
+
+Color de Ojos
+Oscuro
+
+Calvo
+No 
+
+Color de Piel
+Clara
+
+Barba
+No
+
+Bigote
+No
+
+Gafas
+Si
+
+
+Paco
+data/caras1/paco.bmp
+9
+
+Sexo
+Hombre
+
+Color de Pelo
+Rubio
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Claro
+
+Calvo
+No 
+
+Color de Piel
+Clara
+
+Barba
+No
+
+Bigote
+No
+
+Gafas
+No
+
+
+Pepe
+data/caras1/pepe.bmp
+9
+
+Sexo
+Hombre
+
+Color de Pelo
+Pelirrojo
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Oscuro
+
+Calvo
+Si 
+
+Color de Piel
+Clara
+
+Barba
+No
+
+Bigote
+Si
+
+Gafas
+Si
+
+
+Sofia
+data/caras1/sofia.bmp
+9
+
+Sexo
+Mujer
+
+Color de Pelo
+Marron
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Oscuro
+
+Calvo
+No 
+
+Color de Piel
+Clara
+
+Barba
+No
+
+Bigote
+No
+
+Gafas
+Si
+
+
+Sonia
+data/caras1/sonia.bmp
+9
+
+Sexo
+Mujer
+
+Color de Pelo
+Negro
+
+Tamaño de Pelo
+Largo
+
+Color de Ojos
+Claro
+
+Calvo
+No 
+
+Color de Piel
+Oscura
+
+Barba
+No
+
+Bigote
+No
+
+Gafas
+No
+
+
+
+
+1056 728
+
+
+
+
+4 4
+
+4 4
+
+
+
+
+0 0
+
+448 460
+
+0 0 255
+
+4 4
+
+0 255 0
+
+
+0 150 255
+
+
+
+448 0
+
+
+160 460
+
+0 255 255
+
+4 4
+
+0 255 0
+
+data/fuentes/DejaVuSans.ttf
+
+9
+
+255 0 0
+
+
+
+608 0
+
+448 460
+
+0 0 255
+
+4 4
+
+0 255 0
+
+0 150 255
+
+
+
+168 460
+
+115 117
+
+0 0 255
+
+4 4
+
+0 255 0
+
+
+
+776 460
+
+115 117
+
+0 0 255
+
+4 4
+
+0 255 0
+
+
+
+283 460
+
+493 117
+
+128 128 255
+
+4 4
+
+150 255 0
+
+
+
+290 468
+
+150 50
+
+0 255 255
+
+4 4
+
+255 255 140
+
+
+
+620 468
+
+150 50
+
+0 255 255
+
+4 4
+
+255 255 0
+
+
+
+475 520
+
+150 40
+
+0 255 255
+
+4 4
+
+255 255 0
+
+
+290 520
+
+150 50
+
+0 255 255
+
+4 4
+
+255 255 0
+
+255 0 0
+
+data/fuentes/DejaVuSans.ttf
+
+14
+
+0 0 0
+
+
+
+0 577 
+
+1055 151
+
+255 255 255
+
+4 4
+
+0 255 0
+
+data/fuentes/DejaVuSans.ttf
+
+14
+
+255 0 0
+
+6
+
+
+
+data/caras1/desconocido.bmp
+
+
+
+5000
+
+
+    
+�

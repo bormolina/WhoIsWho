@@ -1,0 +1,18 @@
+1) Autor de la práctica: Borja Molina Zea
+
+2) El programa realiza todas las tareas obligatorias. Ninguna tarea opcional ha sido implementada.
+
+3) Para compilar, situarse, usando una terminal, en el directorio padre de todos y ejecutar make. Compilará tanto el módulo gráfico como el quienesquien.
+
+4) Para ejecuntar, seguir la siguiente sintaxis: nombre_del_ejecutable fichero_de_configuración.txt [nombre_del_jugador]
+
+	4.1) El tercer parámetro [nombre_del_jugador] es opcional. Si no se especifica el nombre del jugador será por defecto "Humano".
+	
+	4.2) Ejemplos de ejecución (estando situado en el directorio quienesquien)
+		4.3.1) bin/quienesquien data/caras1.txt
+		4.3.2) bin/quienesquien data/caras2.txt Antonio 
+		4.3.3) bin/quienesquien data/banderas.txt Vicentín
+	
+5) Si la practica es compilada en los ordenadores de las clases de prácticas de la facultad, la carpeta SDL_aulas debe de estar situada en el mismo
+	directorio que las carpetas quienesquien y graficos
+		 

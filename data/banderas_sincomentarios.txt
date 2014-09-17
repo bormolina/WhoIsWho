@@ -1,0 +1,694 @@
+10
+Numero de Colores
+¿Es * el numero de colores?
+3
+1
+2
+3
+
+Color Rojo
+¿Tiene color rojo?
+2
+Si
+No
+
+Color Azul
+¿Tiene color azul?
+2
+Si
+No
+
+Color Verde
+¿Tiene color verde?
+2
+Si
+No
+
+Color Amarillo
+¿Tiene color amarillo?
+2
+Si
+No
+
+Color Negro
+¿Tiene color negro?
+2
+Si
+No
+
+Color Blanco
+¿Tiene color blanco?
+2
+Si
+No
+
+Escudo
+¿Tiene escudo?
+2
+Si
+No
+
+Estrellas
+¿Tiene estrellas?
+2
+Si
+No
+
+Sentido de las Bandas
+¿Es * el sentido de las bandas?
+3
+Ninguno
+Horizontal
+Vertical
+
+16
+Alemania
+data/banderas/alemania.bmp
+10
+
+Numero de Colores
+3
+
+Color Rojo
+Si
+
+Color Azul
+No
+
+Color Verde
+No
+
+Color Amarillo
+Si
+
+Color Negro
+Si
+
+
+Color Blanco
+No
+
+Escudo
+No
+
+Estrellas
+No
+
+Sentido de las Bandas
+Horizontal
+
+
+Argentina
+data/banderas/argentina.bmp
+10
+
+Numero de Colores
+2
+
+Color Rojo
+No
+
+Color Azul
+Si
+
+Color Verde
+No
+
+Color Amarillo
+No
+
+Color Negro
+No
+
+Color Blanco
+Si
+
+Escudo
+Si
+
+Estrellas
+Si
+
+Sentido de las Bandas
+Horizontal
+
+
+Austria
+data/banderas/austria.bmp
+10
+
+Numero de Colores
+2
+
+Color Rojo
+Si
+
+Color Azul
+No
+
+Color Verde
+No
+
+Color Amarillo
+No
+
+Color Negro
+No
+
+Color Blanco
+Si
+
+Escudo
+Si
+
+Estrellas
+No
+
+Sentido de las Bandas
+Horizontal
+
+Bolivia
+data/banderas/bolivia.bmp
+10
+
+Numero de Colores
+3
+
+Color Rojo
+Si
+
+Color Azul
+No
+
+Color Verde
+Si
+
+Color Amarillo
+Si
+
+Color Negro
+No
+
+Color Blanco
+No
+
+Escudo
+Si
+
+Estrellas
+No
+
+Sentido de las Bandas
+Horizontal
+
+
+Brasil
+data/banderas/brasil.bmp
+10
+
+Numero de Colores
+1
+
+Color Rojo
+No
+
+Color Azul
+No
+
+Color Verde
+Si
+
+Color Amarillo
+No
+
+Color Negro
+No
+
+Color Blanco
+No
+
+Escudo
+Si
+
+Estrellas
+No
+
+Sentido de las Bandas
+Ninguno
+
+Canada
+data/banderas/canada.bmp
+10
+
+Numero de Colores
+2
+
+Color Rojo
+Si
+
+Color Azul
+No
+
+Color Verde
+No
+
+Color Amarillo
+No
+
+Color Negro
+No
+
+Color Blanco
+Si
+
+Escudo
+Si
+
+Estrellas
+No
+
+Sentido de las Bandas
+Vertical
+
+Chipre
+data/banderas/chipre.bmp
+10
+
+Numero de Colores
+1
+
+Color Rojo
+No
+
+Color Azul
+No
+
+Color Verde
+No
+
+Color Amarillo
+No
+
+Color Negro
+No
+
+Color Blanco
+Si
+
+Escudo
+Si
+
+Estrellas
+Si
+
+Sentido de las Bandas
+Ninguno
+
+China
+data/banderas/china.bmp
+10
+
+Numero de Colores
+1
+
+Color Rojo
+Si
+
+Color Azul
+No
+
+Color Verde
+No
+
+Color Amarillo
+No
+
+Color Negro
+No
+
+Color Blanco
+No
+
+Escudo
+No
+
+Estrellas
+Si
+
+Sentido de las Bandas
+Ninguno
+
+Ecuador
+data/banderas/ecuador.bmp
+10
+
+Numero de Colores
+3
+
+Color Rojo
+Si
+
+Color Azul
+Si
+
+Color Verde
+No
+
+Color Amarillo
+Si
+
+Color Negro
+No
+
+Color Blanco
+No
+
+Escudo
+Si
+
+Estrellas
+No
+
+Sentido de las Bandas
+Horizontal
+
+EEUU
+data/banderas/eeuu.bmp
+10
+
+Numero de Colores
+3
+
+Color Rojo
+Si
+
+Color Azul
+Si
+
+Color Verde
+No
+
+Color Amarillo
+No
+
+Color Negro
+No
+
+Color Blanco
+Si
+
+Escudo
+No
+
+Estrellas
+Si
+
+Sentido de las Bandas
+Vertical
+
+España
+data/banderas/espanha.bmp
+10
+
+Numero de Colores
+2
+
+Color Rojo
+Si
+
+Color Azul
+No
+
+Color Verde
+No
+
+Color Amarillo
+Si
+
+Color Negro
+No
+
+Color Blanco
+No
+
+Escudo
+Si
+
+Estrellas
+No
+
+Sentido de las Bandas
+Horizontal
+
+Francia
+data/banderas/francia.bmp
+10
+
+Numero de Colores
+3
+
+Color Rojo
+Si
+
+Color Azul
+Si
+
+Color Verde
+No
+
+Color Amarillo
+No
+
+Color Negro
+No
+
+Color Blanco
+Si
+
+Escudo
+No
+
+Estrellas
+No
+
+Sentido de las Bandas
+Vertical
+
+Italia
+data/banderas/italia.bmp
+10
+
+Numero de Colores
+3
+
+Color Rojo
+Si
+
+Color Azul
+No
+
+Color Verde
+Si
+
+Color Amarillo
+No
+
+Color Negro
+No
+
+Color Blanco
+Si
+
+Escudo
+No
+
+Estrellas
+No
+
+Sentido de las Bandas
+Vertical
+
+Jamaica
+data/banderas/jamaica.bmp
+10
+
+Numero de Colores
+3
+
+Color Rojo
+No
+
+Color Azul
+No
+
+Color Verde
+Si
+
+Color Amarillo
+Si
+
+Color Negro
+Si
+
+Color Blanco
+No
+
+Escudo
+No
+
+Estrellas
+No
+
+Sentido de las Bandas
+Ninguno
+
+Portugal
+data/banderas/portugal.bmp
+10
+
+Numero de Colores
+2
+
+Color Rojo
+Si
+
+Color Azul
+No
+
+Color Verde
+Si
+
+Color Amarillo
+No
+
+Color Negro
+No
+
+Color Blanco
+No
+
+Escudo
+Si
+
+Estrellas
+No
+
+Sentido de las Bandas
+Vertical
+
+Suecia
+data/banderas/suecia.bmp
+10
+
+Numero de Colores
+2
+
+Color Rojo
+No
+
+Color Azul
+Si
+
+Color Verde
+No
+
+Color Amarillo
+Si
+
+Color Negro
+No
+
+Color Blanco
+No
+
+Escudo
+No
+
+Estrellas
+No
+
+Sentido de las Bandas
+Ninguno
+
+912 606
+4 4
+4 4
+
+0 0
+336 296
+0 0 255
+4 4
+0 255 0
+
+0 150 255
+336 0
+240 460
+0 255 255
+4 4
+0 255 0
+data/fuentes/DejaVuSans.ttf
+9
+255 0 0
+576 0
+376 296
+0 0 255
+4 4
+0 255 0
+0 150 255
+129 296
+87 77
+0 0 255
+4 4
+0 255 0
+705  296
+87 77
+0 0 255
+4 4
+0 255 0
+216 296
+489 104
+128 128 255
+4 4
+150 255 0
+
+220 300
+150 50
+0 255 255
+4 4
+255 255 140
+
+551 300
+150 50
+0 255 255
+4 4
+255 255 0
+
+410 356
+150 40
+0 255 255
+4 4
+255 255 0
+220 350
+150 50
+0 255 255
+4 4
+255 255 0
+255 0 0
+data/fuentes/DejaVuSans.ttf
+14
+0 0 0
+0 400 
+912 206
+255 255 255
+4 4
+0 255 0
+data/fuentes/DejaVuSans.ttf
+14
+255 0 0
+8
+data/banderas/desconocido.bmp
+
+8000
+
+
+    

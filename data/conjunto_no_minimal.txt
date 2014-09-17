@@ -1,0 +1,537 @@
+#Este fichero no es minmal ya que en para color de pelo solamente no hace falta los valores Negro, Rubio,Blanco y Pelirrojo.
+#Descripcion de los rasgos
+9 #Numero de rasgos
+Sexo
+2 #numero de valores posibles
+Mujer
+Hombre
+
+Color de Pelo
+5
+Negro
+Rubio
+Blanco
+Pelirrojo
+Marron
+Tamaño de Pelo
+2
+Largo
+Corto
+
+Color de Ojos
+2
+Claro
+Oscuro
+
+Cabeza
+2
+Calva
+No Calva
+
+Color de Piel
+2
+Clara
+Oscura
+
+Barba
+2
+Si
+No
+
+Bigote
+2
+Si
+No
+
+Gafas
+2
+Si
+No
+
+##############0##########################
+#PERSONAJES
+15 #numero de personajes
+#nombre del personaje
+Alejandro 
+data/caras1/alejandro.bmp #imagen del personaje
+9 #numero de rasgos
+Sexo
+ 
+Hombre
+Color de Pelo
+ 
+Negro
+Tamaño de Pelo
+ 
+Corto
+Color de Ojos
+ 
+Oscuro
+Cabeza
+ 
+No Calva
+Color de Piel
+ 
+Oscura
+Barba
+ 
+No
+Bigote
+ 
+No
+Gafas
+ 
+No
+
+###########1#############################
+Alfonso
+data/caras1/alfonso.bmp
+9
+Sexo
+ 
+Hombre
+Color de Pelo
+ 
+Negro
+Tamaño de Pelo
+ 
+Corto
+Color de Ojos
+ 
+Claro
+Cabeza
+ 
+No Calva
+Color de Piel
+ 
+Clara
+Barba
+ 
+Si
+Bigote
+ 
+Si
+Gafas
+ 
+No
+
+########################################
+Antonio
+data/caras1/antonio.bmp
+9
+Sexo
+ 
+Hombre
+Color de Pelo
+ 
+Negro
+Tamaño de Pelo
+ 
+Corto
+Color de Ojos
+ 
+Oscuro
+Cabeza
+ 
+No Calva
+Color de Piel
+ 
+Oscura
+Barba
+ 
+Si
+Bigote
+ 
+Si
+Gafas
+ 
+No
+
+############3############################
+Cristina
+data/caras1/cristina.bmp
+9
+Sexo
+ 
+Mujer
+Color de Pelo
+ 
+Negro
+Tamaño de Pelo
+ 
+Largo
+Color de Ojos
+ 
+Claro
+Cabeza
+ 
+No Calva
+Color de Piel
+ 
+Clara
+Barba
+ 
+No
+Bigote
+ 
+No
+Gafas
+ 
+No
+
+############4############################
+Gabriela
+data/caras1/gabriela.bmp
+9
+Sexo
+ 
+Mujer
+Color de Pelo
+ 
+Blanco
+Tamaño de Pelo
+ 
+Corto
+Color de Ojos
+ 
+Claro
+Cabeza
+ 
+No Calva
+Color de Piel
+ 
+Clara
+Barba
+ 
+No
+Bigote
+ 
+No
+Gafas
+ 
+No
+
+############6############################
+Ivan
+data/caras1/ivan.bmp
+9
+Sexo
+ 
+Hombre
+Color de Pelo
+ 
+Rubio
+Tamaño de Pelo
+ 
+Corto
+Color de Ojos
+ 
+Claro
+Cabeza
+ 
+No Calva
+Color de Piel
+ 
+Clara
+Barba
+ 
+No
+Bigote
+ 
+Si
+Gafas
+ 
+No
+
+
+############6############################
+Javier
+data/caras1/javier.bmp
+9
+Sexo
+ 
+Hombre
+Color de Pelo
+ 
+Negro
+Tamaño de Pelo
+ 
+Corto
+Color de Ojos
+ 
+Oscuro
+Cabeza
+ 
+No Calva
+Color de Piel
+ 
+Oscura
+Barba
+ 
+No
+Bigote
+ 
+Si
+Gafas
+ 
+No
+
+############6############################
+Juan
+data/caras1/juan.bmp
+9
+Sexo
+ 
+Hombre
+Color de Pelo
+ 
+Negro
+Tamaño de Pelo
+ 
+Corto
+Color de Ojos
+ 
+Oscuro
+Cabeza
+ 
+Calva
+Color de Piel
+ 
+Oscura
+Barba
+ 
+No
+Bigote
+ 
+Si
+Gafas
+ 
+No
+
+############6############################
+Laura
+data/caras1/laura.bmp
+9
+Sexo
+ 
+Mujer
+Color de Pelo
+ 
+Rubio
+Tamaño de Pelo
+ 
+Largo
+Color de Ojos
+ 
+Claro
+Cabeza
+ 
+No Calva
+Color de Piel
+ 
+Clara
+Barba
+ 
+No
+Bigote
+ 
+No
+Gafas
+ 
+No
+
+############6############################
+Luis
+data/caras1/luis.bmp
+9
+Sexo
+ 
+Hombre
+Color de Pelo
+ 
+Pelirrojo
+Tamaño de Pelo
+ 
+Corto
+Color de Ojos
+ 
+Claro
+Cabeza
+ 
+Calva
+Color de Piel
+ 
+Clara
+Barba
+ 
+Si
+Bigote
+ 
+No
+Gafas
+ 
+No
+
+############6############################
+Marco
+data/caras1/marco.bmp
+9
+Sexo
+ 
+Hombre
+Color de Pelo
+ 
+Blanco
+Tamaño de Pelo
+ 
+Corto
+Color de Ojos
+ 
+Claro
+Cabeza
+ 
+Calva
+Color de Piel
+ 
+Clara
+Barba
+ 
+No
+Bigote
+ 
+No
+Gafas
+ 
+No
+
+############6############################
+Maria
+data/caras1/maria.bmp
+9
+Sexo
+ 
+Mujer
+Color de Pelo
+ 
+Pelirrojo
+Tamaño de Pelo
+ 
+Largo
+Color de Ojos
+ 
+Oscuro
+Cabeza
+ 
+No Calva
+Color de Piel
+ 
+Clara
+Barba
+ 
+No
+Bigote
+ 
+No
+Gafas
+ 
+Si
+
+############6############################
+Paco
+data/caras1/paco.bmp
+9
+Sexo
+ 
+Hombre
+Color de Pelo
+ 
+Rubio
+Tamaño de Pelo
+ 
+Corto
+Color de Ojos
+ 
+Claro
+Cabeza
+ 
+No Calva
+Color de Piel
+ 
+Clara
+Barba
+ 
+No
+Bigote
+ 
+No
+Gafas
+ 
+No
+
+############6############################
+Pepe
+data/caras1/pepe.bmp
+9
+Sexo
+ 
+Hombre
+Color de Pelo
+ 
+Pelirrojo
+Tamaño de Pelo
+ 
+Corto
+Color de Ojos
+ 
+Oscuro
+Cabeza
+ 
+Calva
+Color de Piel
+ 
+Clara
+Barba
+ 
+No
+Bigote
+ 
+Si
+Gafas
+ 
+Si
+
+
+
+############6############################
+Sonia
+data/caras1/sonia.bmp
+9
+Sexo
+ 
+Mujer
+Color de Pelo
+ 
+Negro
+Tamaño de Pelo
+ 
+Largo
+Color de Ojos
+ 
+Claro
+Cabeza
+ 
+No Calva
+Color de Piel
+ 
+Oscura
+Barba
+ 
+No
+Bigote
+ 
+No
+Gafas
+ 
+No
+
+

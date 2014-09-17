@@ -1,0 +1,758 @@
+#Descripcion de los rasgos
+9 #Numero de rasgos
+Sexo
+¿Es *?
+2 #numero de valores posibles
+Mujer
+Hombre
+
+Color de Pelo
+¿Tiene el pelo *?
+5
+Negro
+Rubio
+Blanco
+Pelirrojo
+Marron
+
+Tamaño de Pelo
+¿Es * su pelo?
+2
+Largo
+Corto
+
+Color de Ojos
+¿Es * su color de ojos?
+2
+Claro
+Oscuro
+
+Calvo
+¿Es calvo?
+2
+Calva
+No Calva
+
+Color de Piel
+¿Tiene la piel *?
+2
+Clara
+Oscura
+
+Barba
+¿Tiene barba?
+2
+Si
+No
+
+Bigote
+¿Tiene bigote?
+2
+Si
+No
+
+Gafas
+¿Tiene gafas?
+2
+Si
+No
+
+##############0##########################
+#PERSONAJES
+16 #numero de personajes
+#nombre del personaje
+Ana
+data/caras2/ana.bmp #imagen del personaje
+9 #numero de rasgos
+
+Sexo
+Mujer
+
+Color de Pelo
+Pelirrojo
+
+Tamaño de Pelo
+Largo
+
+Color de Ojos
+Oscuro
+
+Calvo
+No
+
+Color de Piel
+Clara
+
+Barba
+No
+
+Bigote
+No
+
+Gafas
+No
+
+###########1#############################
+Clara
+data/caras2/clara.bmp
+9
+
+Sexo
+Mujer
+
+Color de Pelo
+Rubio
+
+Tamaño de Pelo
+Largo
+
+Color de Ojos
+Claro
+
+Calvo
+No
+
+Color de Piel
+Clara
+
+Barba
+No
+
+Bigote
+No
+
+Gafas
+No
+
+############2###########################
+Cristina
+data/caras2/cristina.bmp
+9
+
+Sexo
+Mujer
+
+Color de Pelo
+Blanco
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Oscuro
+
+Calvo
+No
+
+Color de Piel
+Oscura
+
+Barba
+No
+
+Bigote
+No
+
+Gafas
+Si
+
+############3############################
+Eloy
+data/caras2/eloy.bmp
+9
+
+Sexo
+Hombre
+
+Color de Pelo
+Pelirrojo
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Claro
+
+Calvo
+Si
+
+Color de Piel
+Clara
+
+Barba
+Si
+
+Bigote
+Si
+
+Gafas
+Si
+
+############4############################
+Enrique
+data/caras2/enrique.bmp
+9
+
+Sexo
+Hombre
+
+Color de Pelo
+Rubio
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Claro
+
+Calvo
+No
+
+Color de Piel
+Clara
+
+Barba
+No
+
+Bigote
+Si
+
+Gafas
+No
+
+############6############################
+Javier
+data/caras2/javier.bmp
+9
+
+Sexo
+Hombre
+
+Color de Pelo
+Negro
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Claro
+
+Calvo
+No
+
+Color de Piel
+Oscura
+
+Barba
+No
+
+Bigote
+No
+
+Gafas
+No
+
+############6############################
+Juan
+data/caras2/juan.bmp
+9
+
+Sexo
+Hombre
+
+Color de Pelo
+Negro
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Oscuro
+
+Calvo
+Si
+
+Color de Piel
+Clara
+
+Barba
+Si
+
+Bigote
+No
+
+Gafas
+No
+
+############6############################
+Lidia
+data/caras2/lidia.bmp
+9
+
+Sexo
+Mujer
+
+Color de Pelo
+Rubio
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Claro
+
+Calvo
+No
+
+Color de Piel
+Clara
+
+Barba
+No
+
+Bigote
+No
+
+Gafas
+Si
+
+############6############################
+Manuel
+data/caras2/manuel.bmp
+9
+
+Sexo
+Hombre
+
+Color de Pelo
+Rubio
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Claro
+
+Calvo
+No
+
+Color de Piel
+Clara
+
+Barba
+No
+
+Bigote
+No
+
+Gafas
+No
+
+############6############################
+Maria
+data/caras2/maria.bmp
+9
+
+Sexo
+Mujer
+
+Color de Pelo
+Marron
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Claro
+
+Calvo
+No
+
+Color de Piel
+Clara
+
+Barba
+No
+
+Bigote
+No
+
+Gafas
+No
+
+############6############################
+Pedro
+data/caras2/pedro.bmp
+9
+
+Sexo
+Hombre
+
+Color de Pelo
+Marron
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Claro
+
+Calvo
+Si
+
+Color de Piel
+Clara
+
+Barba
+No
+
+Bigote
+No
+
+Gafas
+No
+
+############6############################
+Pepe
+data/caras2/pepe.bmp
+9
+
+Sexo
+Hombre
+
+Color de Pelo
+Negro
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Claro
+
+Calvo
+No
+
+Color de Piel
+Oscura
+
+Barba
+No
+
+Bigote
+Si
+
+Gafas
+No
+
+############6############################
+Sofia
+data/caras2/sofia.bmp
+9
+
+Sexo
+Mujer
+
+Color de Pelo
+Negro
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Oscuro
+
+Calvo
+No
+
+Color de Piel
+Clara
+
+Barba
+No
+
+Bigote
+No
+
+Gafas
+No
+
+############6############################
+Victoria
+data/caras2/victoria.bmp
+9
+
+Sexo
+Mujer
+
+Color de Pelo
+Negro
+
+Tamaño de Pelo
+Largo
+
+Color de Ojos
+Claro
+
+Calvo
+No
+
+Color de Piel
+Clara
+
+Barba
+No
+
+Bigote
+No
+
+Gafas
+No
+
+############6############################
+Zandra
+data/caras2/zandra.bmp
+9
+
+Sexo
+Mujer
+
+Color de Pelo
+Negro
+
+Tamaño de Pelo
+Largo
+
+Color de Ojos
+Oscuro
+
+Calvo
+No
+
+Color de Piel
+Oscura
+
+Barba
+No
+
+Bigote
+No
+
+Gafas
+Si
+
+############6############################
+Antonio
+data/caras2/antonio.bmp
+9
+
+Sexo
+Hombre
+
+Color de Pelo
+Pelirrojo
+
+Tamaño de Pelo
+Corto
+
+Color de Ojos
+Oscuro
+
+Calvo
+Si
+
+Color de Piel
+Clara
+
+Barba
+No
+
+Bigote
+Si
+
+Gafas
+Si
+
+
+
+####################################################################
+##Informacion de la ventana
+#ancho y alto 
+920 688
+
+######################################
+#Tablero 1 y tablero2
+#Numero de imagenes por fila y columna del tablero
+4 4
+#separacion entre cada imagen ancho y alto
+4 4
+
+#####################################################################
+##Informacion del tablero 1
+#posicion x e y de inicio 
+0 0
+#ancho y alto
+380 420
+#color de fondo
+0 0 255
+#ancho y alto del marco
+4 4
+#color del marco
+0 255 0
+
+#color para tachar un personaje
+0 150 255
+################################
+#Informacion de las preguntas
+#posicion x e y de inicio 
+380 0
+#ancho y alto
+
+160 420
+#color de fondo
+0 255 255
+#ancho y alto del marco
+4 4
+#color del marco
+0 255 0
+#Fuente para escribir las preguntas
+data/fuentes/DejaVuSans.ttf
+#Tamaño de la fuente
+9
+#color de la fuente
+255 0 0
+################################
+##Informacion del tablero 2
+#posicion x e y de inicio 
+540 0
+#ancho y alto
+380 420
+#color de fondo
+0 0 255
+#ancho y alto del marco
+4 4
+#color del marco
+0 255 0
+#color para tachar un personaje
+0 150 255
+################################
+#personaje oculto del jugador 1 (humano por defecto)
+#posicion x e y de inicio 
+145 420
+#ancho y alto
+98 108
+#color de fondo
+0 0 255
+#ancho y alto del marco
+4 4
+#color del marco
+0 255 0
+################################
+#personaje oculto del jugador 2 (máquina por defecto)
+#posicion x e y de inicio 
+685 420
+#ancho y alto
+98 108
+#color de fondo
+0 0 255
+#ancho y alto del marco
+4 4
+#color del marco
+0 255 0
+################################
+#informacion del recuadro de los botones
+#posicion x e y de inicio 
+243 420
+#ancho y alto
+442 117
+#color de fondo
+128 128 255
+#ancho y alto del marco
+4 4
+#color del marco
+150 255 0
+
+#cuadro del tiempo acumulado
+#posicion x e y de inicio 
+248 424
+#ancho y alto
+150 50
+#color de fondo
+0 255 255
+#ancho y alto del marco
+4 4
+#color del marco
+255 255 140
+
+#cuadro del boton stop
+#posicion x e y de inicio 
+530 424
+#ancho y alto
+150 50
+#color de fondo
+0 255 255
+#ancho y alto del marco
+4 4
+#color del marco
+255 255 0
+
+#cuadro del cronometro
+#posicion x e y de inicio 
+410 494
+#ancho y alto
+150 40
+#color de fondo
+0 255 255
+#ancho y alto del marco
+4 4
+#color del marco
+255 255 0
+#cuadro del boton restaurar
+#posicion x e y de inicio 
+248 464
+#ancho y alto
+150 50
+#color de fondo
+0 255 255
+#ancho y alto del marco
+4 4
+#color del marco
+255 255 0
+#color de tiempo transcurrido
+255 0 0
+#Fuente para escribir en los botones
+data/fuentes/DejaVuSans.ttf
+#Tamaño de la fuente
+14
+#Color de la fuente
+0 0 0
+################################
+#informacion del recuadro del terminal
+#posicion x e y de inicio 
+0 537 
+#ancho y alto
+920 151
+#color de fondo
+255 255 255
+#ancho y alto del marco
+4 4
+#color del marco
+0 255 0
+#Fuente para escribir 
+data/fuentes/DejaVuSans.ttf
+#Tamaño de la fuente
+14
+#color de la fuente
+255 0 0
+#Numero de lineas que se visualizan en el terminal
+6
+
+##########################################
+#imagen para ocultar las cartas del oponente
+data/caras2/desconocido.bmp
+
+##########################################
+#tiempo de espera para tachar los personajes
+5000
+
+
+    
